@@ -6,7 +6,8 @@ This dataset consists of the Ensemble Framework For Flash Flood Forecasting (EF5
 
 Analysis of simulations based on these parameters were also featured in EF5's publication:
 
-**Flamig, Z.L., Vergara, H. and Gourley, J.J., 2020. The Ensemble Framework For Flash Flood Forecasting (EF5) v1. 2: Description and Case Study. Geoscientific Model Development Discussions, pp.1-26. (Accepted)**
+**Flamig, Z.L., Vergara, H. and Gourley, J.J., 2020. The Ensemble Framework For Flash Flood Forecasting (EF5) v1. 2: Description and Case Study. Geoscientific Model Development Discussions, pp.1-26.**
+**Chen, M., Li, Z., Vergara, H. J., Gourley, J. J., Xue, M., Hong, Y., Hu, X., Mayol Novoa, H., Martin, E. R., McPherson, R. A., Gao, S., Vitaliano Perez, A., & Yanqui Morales, I. (2023). Conus-wide model calibration and validation for CRESTv3.0 – An improved Coupled Routing and Excess STorage distributed hydrological model. Journal of Hydrology, 626, 130333. https://doi.org/10.1016/j.jhydrol.2023.130333**
 
 Parameters included correspond to the following models:
 
